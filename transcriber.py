@@ -8,7 +8,7 @@ from openai import OpenAI
 #############################################################################
 # Using OpenAI API, need account credits for this
 '''
-client = OpenAI(api_key="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")
+client = OpenAI(api_key="Your API Key")
 def transcribe_with_openai(audio_file):
     result = client.audio.transcriptions.create(
         model="whisper-1",
