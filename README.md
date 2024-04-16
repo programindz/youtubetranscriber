@@ -1,4 +1,4 @@
-# YouTube Transcription Project
+# YouTube Transcription 
 
 This project provides a simple interface to transcribe audio from YouTube videos using the Whisper model and optionally through OpenAI's API.
 
